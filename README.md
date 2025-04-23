@@ -2,5 +2,7 @@
 
 # this service run the function as :
 - Push Notification
-- Email Gateway
-- WhatsApp Gateway
+
+# database :
+- notifications -> notifikasi yang dikirim ke user (judul, pesan, status)
+- notification_templates -> template pesan untuk semua notif (template tugas, pembayaran, meeting, badge)
