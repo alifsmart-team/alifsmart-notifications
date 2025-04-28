@@ -5,6 +5,6 @@
 - Pengingat Meeting
 - Pemberitahuan Badge
 
-# database :
+# tables :
 - notifications -> pesan notifikasi
 - notification_templates -> template pesan
